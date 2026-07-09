@@ -67,7 +67,6 @@ case: foxin micro atx, 1200rs, from a local shop.
 
 assembled all of it myself, with a bit of help from my dad. worth saying — this was
 genuinely the first time in my life i'd actually seen the inside of a real desktop PC.
-Arduino boards and dev kits are one thing, this was a different scale of "please don't
-break the expensive thing" energy. but it went together fine in the end.
+Arduino boards and dev kits are one thing, this was a different scale but it went together fine in the end.
 
 that's the hardware side sorted. next part is where the actual network design starts.
