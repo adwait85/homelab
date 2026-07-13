@@ -30,18 +30,15 @@ transit link straight into opnsense's wan port. opnsense doesn't even need to kn
 anything changed — no double nat, no bridge mode, no fighting kerala vision's mac
 binding ever again, because the device authenticating never changes.
 
-went back through the opnsense config i'd already built weeks earlier just to check how
-much would need to change for this. turned out to be almost nothing — the wan side was
-already sitting on a static address in the exact transit range this new plan needed. all
-that groundwork wasn't wasted after all, it was just waiting for the right wan-side
-device to plug into it.
+so that's the new plan — leave the ont alone, let it keep doing pppoe like it already
+does, and just change its lan side to become the transit link straight into opnsense's
+wan port instead. opnsense itself isn't even set up yet at this point, that's the actual
+next step — but at least now there's a clear plan for what its wan side needs to look
+like when i do get to it.
 
-r480t+ officially got benched from the main plan at this point. not thrown out though —
-started thinking about giving it a smaller, lower-stakes job later on, something
-completely separate from the main network path where it couldn't cause the same kind of
-trouble again.
+r480t+ is out of the main plan for now. not getting rid of it though — thinking about
+giving it a smaller, separate job later, something completely away from the main network
+path so it can't cause the same kind of trouble again.
 
-felt like the actual turning point of the whole project, not gonna lie. going from
-"trying to force a workaround to work" to "actually understanding why it broke and
-designing around that" is a different kind of problem solving, and it's the version that
-actually held up long term.
+honestly this feels like the right way to solve it. instead of forcing the old plan to
+work, actually figure out why it broke and build around that instead.
