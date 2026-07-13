@@ -23,3 +23,4 @@ started as "i just want network-wide ad blocking" and did not stay that way for 
 - [Day 1 — Origin Story](journal/2026-07-03-day1-origin-story.md)
 - [Day 2 — The Parts Hunt](journal/2026-07-06-day2-parts-hunt.md)
 - [Day 3 - The Nervous Part](journal/2026-07-11-day3-ha-planning.md)
+- [Day4 - pppoe-failure](journal/2026-07-10-day4-pppoe-failure.md)
