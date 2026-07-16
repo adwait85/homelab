@@ -25,5 +25,5 @@ started as "i just want network-wide ad blocking" and did not stay that way for 
 - [Day 3 - The Nervous Part](journal/2026-07-11-day3-ha-planning.md)
 - [Day4 - pppoe-failure](journal/2026-07-12-day4-pppoe-failure.md)
 - [Day5 - the pivot](journal/2026-07-14-day5-the-pivot.md)
-- [Day5 - the cutover night](journal/2026-07-17-day6-cutover-night.md)
+- [Day6 - the cutover night](journal/2026-07-17-day6-cutover-night.md)
   
